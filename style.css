@@ -1,0 +1,27 @@
+.container {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+h1 {
+  margin-bottom: 25px;
+  color: violet;
+  font-size: 36px;
+  font-weight: 500;
+}
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+table {
+  width: 100%;
+}
+th {
+  background: skyblue;
+}
+th,
+td {
+  padding: 5px;
+}
